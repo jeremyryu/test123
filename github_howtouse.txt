@@ -5,7 +5,7 @@ $ git init
 $ git add .  -- 인덱스 폴더로 넘기는 것
  
 
-$ git commit -m "test commit"
+$ git commit -m "test commit"   -- 파일업로드시 반드시 해야 업로드 가능
 $ git remote add origin https://github.com/~~/~~.git  -- 원격저장소와 연결
 $ git push -u origin master   -- 원격저장소에 업로드
 
