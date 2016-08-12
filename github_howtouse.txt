@@ -1,0 +1,12 @@
+git 할 파일 오른쪽 클릭
+-> git bash 실행
+
+$ git init
+$ git add .  -- 인덱스 폴더로 넘기는 것
+ 
+
+$ git commit -m "test commit"
+$ git remote add origin https://github.com/~~/~~.git  -- 원격저장소와 연결
+$ git push -u origin master   -- 원격저장소에 업로드
+
+
